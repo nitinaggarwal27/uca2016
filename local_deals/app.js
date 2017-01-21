@@ -10,4 +10,4 @@ app.get('/test', function(req, res){
   res.end("hurray!! local deals web service is working")
 });
 
-var server = app.listen(8080)
+var server = app.listen(9091)
